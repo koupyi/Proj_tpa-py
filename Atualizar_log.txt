@@ -1,1 +1,8 @@
 [DEBUG] Executando git add . em py 
+[DEBUG] Executando git commit em py 
+[DEBUG] Executando git pull em py 
+[DEBUG] Executando git push em py 
+To https://github.com/koupyi/Proj_tpa-py
+   b7bc95d..9312893  main -> main
+[SUCESSO] Atualização concluída em py 
+[DEBUG] Executando git add . em py 
