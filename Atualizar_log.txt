@@ -30,3 +30,11 @@ To https://github.com/koupyi/Proj_tpa-py
    1d62f3c..45d16ae  main -> main
 [SUCESSO] Atualização concluída em py 
 [DEBUG] Executando git add . em py 
+warning: in the working copy of 'Atualizar_log.txt', LF will be replaced by CRLF the next time Git touches it
+[DEBUG] Executando git commit em py 
+[DEBUG] Executando git pull em py 
+[DEBUG] Executando git push em py 
+To https://github.com/koupyi/Proj_tpa-py
+   45d16ae..9224420  main -> main
+[SUCESSO] Atualização concluída em py 
+[DEBUG] Executando git add . em py 
