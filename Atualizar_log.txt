@@ -46,3 +46,8 @@ To https://github.com/koupyi/Proj_tpa-py
    9224420..d0450ed  main -> main
 [SUCESSO] Atualização concluída em py 
 [DEBUG] Executando git add . em py 
+[DEBUG] Executando git commit em py 
+[DEBUG] Executando git pull em py 
+[DEBUG] Executando git push em py 
+[SUCESSO] Atualização concluída em py 
+[DEBUG] Executando git add . em py 
